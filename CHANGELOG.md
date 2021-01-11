@@ -4,6 +4,10 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 
+## 11.4.0
+### Changed
+- Generate tree shakable js clients. JS skeleton based on github.com/paysera/js-lib-skeleton.
+
 ## 11.3.0
 ### Changed
 - Generate clients with `"evp/money": "^1.0 || ^2.0"`.
